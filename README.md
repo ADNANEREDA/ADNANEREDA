@@ -71,7 +71,7 @@ I'm a 4th-year Engineering student in Software Engineering and Artificial Intell
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 I'm always open to learning opportunities, interesting projects, and collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-adnane) 
