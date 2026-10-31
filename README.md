@@ -10,15 +10,15 @@
 ###  About Me
 I'm a 4th-year Engineering student in Software Engineering and Artificial Intelligence at ENSA Fès, passionate about software development, intelligent systems, and modern software architecture. I enjoy building practical projects, designing REST APIs, working with databases, and exploring how AI can solve real-world problems.
 
-- 💻 **Interested in:** Backend Engineering, Full-Stack Development & AI
-- 🏗️ **Exploring:** DevOps, Docker, Microservices & Cloud Computing
-- 🤖 **Learning & Building:** Machine Learning & Generative AI models
-- 📚 **Always improving:** problem-solving and engineering skills
-- 🎯 **Goal:** Build reliable, scalable, and intelligent software solutions
+-  **Interested in:** Backend Engineering, Full-Stack Development & AI
+-  **Exploring:** DevOps, Docker, Microservices & Cloud Computing
+-  **Learning & Building:** Machine Learning & Generative AI models
+-  **Always improving:** problem-solving and engineering skills
+-  **Goal:** Build reliable, scalable, and intelligent software solutions
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **Languages:**
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -55,24 +55,19 @@ I'm a 4th-year Engineering student in Software Engineering and Artificial Intell
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG_(Retrieval_Augmented_Generation)-000000?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 
-### 🏆 Certifications
+###  Certifications
 
-*   🥇 **Oracle Certified Professional:** Java SE 17 Developer
-*   🧠 **Stanford Online / DeepLearning.AI:** Machine Learning Specialization
-*   📊 **IBM:** Data Analyst Professional Certificate
-*   ⚙️ **IBM:** DevOps and Software Engineering Professional Certificate
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADNANEREDA&show_icons=true&theme=radical&hide_border=true" alt="Reda's GitHub Stats" />
-</div>
+*    **Oracle Certified Professional:** Java SE 17 Developer
+*    **Stanford Online / DeepLearning.AI:** Machine Learning Specialization
+*    **IBM:** Data Analyst Professional Certificate
+*    **IBM:** DevOps and Software Engineering Professional Certificate
 
 ---
 
@@ -85,5 +80,5 @@ I'm always open to learning opportunities, interesting projects, and collaborati
 <br>
 
 <div align="center">
-  <i>“Building today, engineering tomorrow.” 🚀</i>
+  <i>Let's 🚀</i>
 </div>
