@@ -13,7 +13,7 @@ I'm a 4th-year Engineering student in Software Engineering and Artificial Intell
 - 💻 **Interested in:** Backend Engineering, Full-Stack Development & AI
 - 🏗️ **Exploring:** DevOps, Docker, Microservices & Cloud Computing
 - 🤖 **Learning & Building:** Machine Learning & Generative AI models
-- 📚 **Always improving:** My problem-solving and engineering skills
+- 📚 **Always improving:** problem-solving and engineering skills
 - 🎯 **Goal:** Build reliable, scalable, and intelligent software solutions
 
 ---
