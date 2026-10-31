@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**ADNANEREDA/ADNANEREDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<div align="center">
+<div align="center">
   <h1>Hi, I'm Reda ADNANE! 👋</h1>
   <h3>Software Engineering & Artificial Intelligence Student 💻🤖</h3>
 </div>
@@ -78,4 +64,3 @@ Currently in my 4th year at **ENSA Fès**, I am a passionate developer focused o
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-adnane) 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
--->
